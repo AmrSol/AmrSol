@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmrSol
-- 👀 I’m interested in Data Science and Machine Learning in the Aviation Industry. It is the topic of my PhD.
+- 👀 I’m interested in Data Science, Machine Learning and Symbolic AI in the Aviation Industry. It is the topic of my PhD.
 - 🌱 I’m currently learning Python and its numerous libraries.
 - 💞️ I’m looking to collaborate on project that involve uncovering insight from big aviation data.
 - 📫 How to reach me: email me at as00911@surrey.ac.uk
